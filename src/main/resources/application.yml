@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+firebase:
+  credential:
+    resource-path: ${GOOGLE_APPLICATION_CREDENTIALS}
